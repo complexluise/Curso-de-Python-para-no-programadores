@@ -1,7 +1,3 @@
-Aquí tienes la versión actualizada de la estructura del taller con los cambios reflejados:
-
----
-
 ## **Python para no programadorxs**
 
 ### **Objetivos del Taller**
@@ -85,7 +81,7 @@ merger.close()
   - Código para modificar la orientación de las páginas dentro de un documento PDF.
 
 - **Hagamos nuestra herramienta para manejar PDFs:**
-  - Con todo lo aprendido en el curso hagamos una interfaz básica para poder usar nuestra herramienta.
+  - Con todo lo aprendido en el taller hagamos una interfaz básica para poder usar nuestra herramienta.
 
 ---
 
