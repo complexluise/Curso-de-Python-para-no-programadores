@@ -57,12 +57,12 @@ Crear una función que reciba un nombre y devuelva un saludo personalizado.
   - Solucionar errores.
 
 **4.2 Manipulación de PDFs con Python (30 minutos)**
-- Introducción a `PyPDF2`.
+- Introducción a `pypdf`.
 - **Unir múltiples PDFs en un solo archivo:**
   - Explicación y código de ejemplo para combinar varios archivos PDF en uno solo.
 
 ```python
-from PyPDF2 import PdfMerger
+from pypdf import PdfMerger
 
 merger = PdfMerger()
 merger.append("file1.pdf")
