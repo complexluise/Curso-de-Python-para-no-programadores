@@ -11,7 +11,7 @@ ___ i in range(num_estudiantes):
     
     # TODO: Pedir las notas separadas por comas y convertirlas en una lista de números
     print("Las notas son sobre 100")
-    notas = input(f"Ingrese las notas de {nombre}, separadas por comas: ")
+    notas = input(f"Ingrese las notas de {nombre}, separadas por comas: ")  #2,3,2
     lista_notas = [_____ for nota in notas.split(",")]  # <--- Completar recuerda que debe ser una lista de números
     
     # Guardar en el diccionario

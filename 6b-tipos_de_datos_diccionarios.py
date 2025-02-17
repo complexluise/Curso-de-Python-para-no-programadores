@@ -1,4 +1,8 @@
-persona = {"nombre": "Ana", "edad": 30, "ciudad": "Madrid"}
+persona = {
+    "nombre": "Ana",
+    "nombre": 30,
+    "ciudad": "Madrid"
+    }
 print(persona["nombre"])  # Imprime "Ana"
 
 persona["edad"] = 31  # Cambia el valor de la clave "edad"
